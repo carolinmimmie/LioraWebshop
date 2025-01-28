@@ -9,7 +9,7 @@
     "allowImportingTsExtensions": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "noEmit": false,  // Viktigt för att generera JS-filer
+    "noEmit": true,  // Viktigt för att generera JS-filer
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
